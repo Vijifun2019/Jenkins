@@ -6,6 +6,7 @@ public class HelloWorld
 	{
 		System.out.println("Welcome to Hello World program");
 		System.out.println("First GIT Commit Check");
+		System.out.println("Second GIT Commit Check");
 	}
 
 }
